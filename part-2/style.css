@@ -1,0 +1,19 @@
+.tweet {
+  border: 1px solid #0092cc;
+  background-color: rgb(225, 244, 248);
+  border-radius: 5px;
+  margin: 20px 20%;
+  padding: 20px;
+}
+
+.tweet-data {
+  color: #757676;
+  display: inline-block;
+  margin: 0 10px;
+}
+
+.message {
+  color: #050936;
+  font-size: 20px;
+  margin: 10px 0;
+}
